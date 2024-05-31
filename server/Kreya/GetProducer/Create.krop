@@ -1,0 +1,14 @@
+{
+  "details": {
+    "endpoint": "http://localhost:8089",
+    "methodFqn": "GetProducer.Create"
+  },
+  "requests": [
+    {
+      "location": "Create-request.json"
+    }
+  ],
+  "operationType": "unary",
+  "invokerName": "grpc",
+  "importStreamId": "e496c8a7-46f2-4fff-b1f0-a94645056f6d"
+}

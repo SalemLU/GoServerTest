@@ -1,0 +1,22 @@
+syntax = "proto3";
+option go_package = "github.com/SalemLU/GoServerTest/getProducer";
+
+
+message Film {
+	string title = 1;
+	int64 year = 2;
+}
+
+message CreateRequest {
+	Film film = 1;
+}
+
+message CreateResponse {
+	bytes director = 2;
+}
+
+service GetProducer {
+	rpc Create(CreateRequest) returns (CreateResponse);
+
+
+}
