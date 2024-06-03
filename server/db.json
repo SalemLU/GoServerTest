@@ -113,8 +113,8 @@
         {
             "id": 7,
             "title": "City of God",
-            "year": "2002",
-            "runtime": "130",
+            "year": 2002,
+            "runtime": 130,
             "genres": [
                 "Crime",
                 "Drama"
@@ -127,8 +127,8 @@
         {
             "id": 8,
             "title": "Memento",
-            "year": "2000",
-            "runtime": "113",
+            "year": 2000,
+            "runtime": 113,
             "genres": [
                 "Mystery",
                 "Thriller"
@@ -141,8 +141,8 @@
         {
             "id": 9,
             "title": "The Intouchables",
-            "year": "2011",
-            "runtime": "112",
+            "year": 2011,
+            "runtime": 112,
             "genres": [
                 "Biography",
                 "Comedy",
@@ -156,8 +156,8 @@
         {
             "id": 10,
             "title": "Stardust",
-            "year": "2007",
-            "runtime": "127",
+            "year": 2007,
+            "runtime": 127,
             "genres": [
                 "Adventure",
                 "Family",
@@ -171,8 +171,8 @@
         {
             "id": 11,
             "title": "Apocalypto",
-            "year": "2006",
-            "runtime": "139",
+            "year": 2006,
+            "runtime": 139,
             "genres": [
                 "Action",
                 "Adventure",
@@ -186,8 +186,8 @@
         {
             "id": 12,
             "title": "Taxi Driver",
-            "year": "1976",
-            "runtime": "113",
+            "year": 1976,
+            "runtime": 113,
             "genres": [
                 "Crime",
                 "Drama"
@@ -200,8 +200,8 @@
         {
             "id": 13,
             "title": "No Country for Old Men",
-            "year": "2007",
-            "runtime": "122",
+            "year": 2007,
+            "runtime": 122,
             "genres": [
                 "Crime",
                 "Drama",
@@ -215,8 +215,8 @@
         {
             "id": 14,
             "title": "Planet 51",
-            "year": "2009",
-            "runtime": "91",
+            "year": 2009,
+            "runtime": 91,
             "genres": [
                 "Animation",
                 "Adventure",
@@ -230,8 +230,8 @@
         {
             "id": 15,
             "title": "Looper",
-            "year": "2012",
-            "runtime": "119",
+            "year": 2012,
+            "runtime": 119,
             "genres": [
                 "Action",
                 "Crime",
@@ -245,8 +245,8 @@
         {
             "id": 16,
             "title": "Corpse Bride",
-            "year": "2005",
-            "runtime": "77",
+            "year": 2005,
+            "runtime": 77,
             "genres": [
                 "Animation",
                 "Drama",
@@ -260,8 +260,8 @@
         {
             "id": 17,
             "title": "The Third Man",
-            "year": "1949",
-            "runtime": "93",
+            "year": 1949,
+            "runtime": 93,
             "genres": [
                 "Film-Noir",
                 "Mystery",
@@ -275,8 +275,8 @@
         {
             "id": 18,
             "title": "The Beach",
-            "year": "2000",
-            "runtime": "119",
+            "year": 2000,
+            "runtime": 119,
             "genres": [
                 "Adventure",
                 "Drama",
@@ -290,8 +290,8 @@
         {
             "id": 19,
             "title": "Scarface",
-            "year": "1983",
-            "runtime": "170",
+            "year": 1983,
+            "runtime": 170,
             "genres": [
                 "Crime",
                 "Drama"
@@ -304,8 +304,8 @@
         {
             "id": 20,
             "title": "Sid and Nancy",
-            "year": "1986",
-            "runtime": "112",
+            "year": 1986,
+            "runtime": 112,
             "genres": [
                 "Biography",
                 "Drama",
@@ -319,8 +319,8 @@
         {
             "id": 21,
             "title": "Black Swan",
-            "year": "2010",
-            "runtime": "108",
+            "year": 2010,
+            "runtime": 108,
             "genres": [
                 "Drama",
                 "Thriller"
@@ -333,8 +333,8 @@
         {
             "id": 22,
             "title": "Inception",
-            "year": "2010",
-            "runtime": "148",
+            "year": 2010,
+            "runtime": 148,
             "genres": [
                 "Action",
                 "Adventure",
@@ -348,8 +348,8 @@
         {
             "id": 23,
             "title": "The Deer Hunter",
-            "year": "1978",
-            "runtime": "183",
+            "year": 1978,
+            "runtime": 183,
             "genres": [
                 "Drama",
                 "War"
@@ -362,8 +362,8 @@
         {
             "id": 24,
             "title": "Chasing Amy",
-            "year": "1997",
-            "runtime": "113",
+            "year": 1997,
+            "runtime": 113,
             "genres": [
                 "Comedy",
                 "Drama",
@@ -377,8 +377,8 @@
         {
             "id": 25,
             "title": "Django Unchained",
-            "year": "2012",
-            "runtime": "165",
+            "year": 2012,
+            "runtime": 165,
             "genres": [
                 "Drama",
                 "Western"
@@ -391,8 +391,8 @@
         {
             "id": 26,
             "title": "The Silence of the Lambs",
-            "year": "1991",
-            "runtime": "118",
+            "year": 1991,
+            "runtime": 118,
             "genres": [
                 "Crime",
                 "Drama",
@@ -406,8 +406,8 @@
         {
             "id": 27,
             "title": "American Beauty",
-            "year": "1999",
-            "runtime": "122",
+            "year": 1999,
+            "runtime": 122,
             "genres": [
                 "Drama",
                 "Romance"
@@ -420,8 +420,8 @@
         {
             "id": 28,
             "title": "Snatch",
-            "year": "2000",
-            "runtime": "102",
+            "year": 2000,
+            "runtime": 102,
             "genres": [
                 "Comedy",
                 "Crime"
@@ -434,8 +434,8 @@
         {
             "id": 29,
             "title": "Midnight Express",
-            "year": "1978",
-            "runtime": "121",
+            "year": 1978,
+            "runtime": 121,
             "genres": [
                 "Crime",
                 "Drama",
@@ -449,8 +449,8 @@
         {
             "id": 30,
             "title": "Pulp Fiction",
-            "year": "1994",
-            "runtime": "154",
+            "year": 1994,
+            "runtime": 154,
             "genres": [
                 "Crime",
                 "Drama"
@@ -463,8 +463,8 @@
         {
             "id": 31,
             "title": "Lock, Stock and Two Smoking Barrels",
-            "year": "1998",
-            "runtime": "107",
+            "year": 1998,
+            "runtime": 107,
             "genres": [
                 "Comedy",
                 "Crime"
@@ -477,8 +477,8 @@
         {
             "id": 32,
             "title": "Lucky Number Slevin",
-            "year": "2006",
-            "runtime": "110",
+            "year": 2006,
+            "runtime": 110,
             "genres": [
                 "Crime",
                 "Drama",
@@ -492,8 +492,8 @@
         {
             "id": 33,
             "title": "Rear Window",
-            "year": "1954",
-            "runtime": "112",
+            "year": 1954,
+            "runtime": 112,
             "genres": [
                 "Mystery",
                 "Thriller"
@@ -506,8 +506,8 @@
         {
             "id": 34,
             "title": "Pan's Labyrinth",
-            "year": "2006",
-            "runtime": "118",
+            "year": 2006,
+            "runtime": 118,
             "genres": [
                 "Drama",
                 "Fantasy",
@@ -521,8 +521,8 @@
         {
             "id": 35,
             "title": "Shutter Island",
-            "year": "2010",
-            "runtime": "138",
+            "year": 2010,
+            "runtime": 138,
             "genres": [
                 "Mystery",
                 "Thriller"
@@ -535,8 +535,8 @@
         {
             "id": 36,
             "title": "Reservoir Dogs",
-            "year": "1992",
-            "runtime": "99",
+            "year": 1992,
+            "runtime": 99,
             "genres": [
                 "Crime",
                 "Drama",
@@ -550,8 +550,8 @@
         {
             "id": 37,
             "title": "The Shining",
-            "year": "1980",
-            "runtime": "146",
+            "year": 1980,
+            "runtime": 146,
             "genres": [
                 "Drama",
                 "Horror"
@@ -564,8 +564,8 @@
         {
             "id": 38,
             "title": "Midnight in Paris",
-            "year": "2011",
-            "runtime": "94",
+            "year": 2011,
+            "runtime": 94,
             "genres": [
                 "Comedy",
                 "Fantasy",
@@ -579,8 +579,8 @@
         {
             "id": 39,
             "title": "Les Misérables",
-            "year": "2012",
-            "runtime": "158",
+            "year": 2012,
+            "runtime": 158,
             "genres": [
                 "Drama",
                 "Musical",
@@ -594,8 +594,8 @@
         {
             "id": 40,
             "title": "L.A. Confidential",
-            "year": "1997",
-            "runtime": "138",
+            "year": 1997,
+            "runtime": 138,
             "genres": [
                 "Crime",
                 "Drama",
@@ -609,8 +609,8 @@
         {
             "id": 41,
             "title": "Moneyball",
-            "year": "2011",
-            "runtime": "133",
+            "year": 2011,
+            "runtime": 133,
             "genres": [
                 "Biography",
                 "Drama",
@@ -624,8 +624,8 @@
         {
             "id": 42,
             "title": "The Hangover",
-            "year": "2009",
-            "runtime": "100",
+            "year": 2009,
+            "runtime": 100,
             "genres": [
                 "Comedy"
             ],
@@ -637,8 +637,8 @@
         {
             "id": 43,
             "title": "The Great Beauty",
-            "year": "2013",
-            "runtime": "141",
+            "year": 2013,
+            "runtime": 141,
             "genres": [
                 "Drama"
             ],
@@ -650,8 +650,8 @@
         {
             "id": 44,
             "title": "Gran Torino",
-            "year": "2008",
-            "runtime": "116",
+            "year": 2008,
+            "runtime": 116,
             "genres": [
                 "Drama"
             ],
@@ -663,8 +663,8 @@
         {
             "id": 45,
             "title": "Mary and Max",
-            "year": "2009",
-            "runtime": "92",
+            "year": 2009,
+            "runtime": 92,
             "genres": [
                 "Animation",
                 "Comedy",
@@ -678,8 +678,8 @@
         {
             "id": 46,
             "title": "Flight",
-            "year": "2012",
-            "runtime": "138",
+            "year": 2012,
+            "runtime": 138,
             "genres": [
                 "Drama",
                 "Thriller"
@@ -692,8 +692,8 @@
         {
             "id": 47,
             "title": "One Flew Over the Cuckoo's Nest",
-            "year": "1975",
-            "runtime": "133",
+            "year": 1975,
+            "runtime": 133,
             "genres": [
                 "Drama"
             ],
@@ -705,8 +705,8 @@
         {
             "id": 48,
             "title": "Requiem for a Dream",
-            "year": "2000",
-            "runtime": "102",
+            "year": 2000,
+            "runtime": 102,
             "genres": [
                 "Drama"
             ],
@@ -718,8 +718,8 @@
         {
             "id": 49,
             "title": "The Truman Show",
-            "year": "1998",
-            "runtime": "103",
+            "year": 1998,
+            "runtime": 103,
             "genres": [
                 "Comedy",
                 "Drama",
@@ -733,8 +733,8 @@
         {
             "id": 50,
             "title": "The Artist",
-            "year": "2011",
-            "runtime": "100",
+            "year": 2011,
+            "runtime": 100,
             "genres": [
                 "Comedy",
                 "Drama",
@@ -748,8 +748,8 @@
         {
             "id": 51,
             "title": "Forrest Gump",
-            "year": "1994",
-            "runtime": "142",
+            "year": 1994,
+            "runtime": 142,
             "genres": [
                 "Comedy",
                 "Drama"
@@ -762,8 +762,8 @@
         {
             "id": 52,
             "title": "The Hobbit: The Desolation of Smaug",
-            "year": "2013",
-            "runtime": "161",
+            "year": 2013,
+            "runtime": 161,
             "genres": [
                 "Adventure",
                 "Fantasy"
@@ -776,8 +776,8 @@
         {
             "id": 53,
             "title": "Vicky Cristina Barcelona",
-            "year": "2008",
-            "runtime": "96",
+            "year": 2008,
+            "runtime": 96,
             "genres": [
                 "Drama",
                 "Romance"
@@ -790,8 +790,8 @@
         {
             "id": 54,
             "title": "Slumdog Millionaire",
-            "year": "2008",
-            "runtime": "120",
+            "year": 2008,
+            "runtime": 120,
             "genres": [
                 "Drama",
                 "Romance"
@@ -804,8 +804,8 @@
         {
             "id": 55,
             "title": "Lost in Translation",
-            "year": "2003",
-            "runtime": "101",
+            "year": 2003,
+            "runtime": 101,
             "genres": [
                 "Drama"
             ],
@@ -817,8 +817,8 @@
         {
             "id": 56,
             "title": "Match Point",
-            "year": "2005",
-            "runtime": "119",
+            "year": 2005,
+            "runtime": 119,
             "genres": [
                 "Drama",
                 "Romance",
@@ -832,8 +832,8 @@
         {
             "id": 57,
             "title": "Psycho",
-            "year": "1960",
-            "runtime": "109",
+            "year": 1960,
+            "runtime": 109,
             "genres": [
                 "Horror",
                 "Mystery",
@@ -847,8 +847,8 @@
         {
             "id": 58,
             "title": "North by Northwest",
-            "year": "1959",
-            "runtime": "136",
+            "year": 1959,
+            "runtime": 136,
             "genres": [
                 "Action",
                 "Adventure",
@@ -862,8 +862,8 @@
         {
             "id": 59,
             "title": "Madagascar: Escape 2 Africa",
-            "year": "2008",
-            "runtime": "89",
+            "year": 2008,
+            "runtime": 89,
             "genres": [
                 "Animation",
                 "Action",
@@ -877,8 +877,8 @@
         {
             "id": 60,
             "title": "Despicable Me 2",
-            "year": "2013",
-            "runtime": "98",
+            "year": 2013,
+            "runtime": 98,
             "genres": [
                 "Animation",
                 "Adventure",
@@ -892,8 +892,8 @@
         {
             "id": 61,
             "title": "Downfall",
-            "year": "2004",
-            "runtime": "156",
+            "year": 2004,
+            "runtime": 156,
             "genres": [
                 "Biography",
                 "Drama",
@@ -907,8 +907,8 @@
         {
             "id": 62,
             "title": "Madagascar",
-            "year": "2005",
-            "runtime": "86",
+            "year": 2005,
+            "runtime": 86,
             "genres": [
                 "Animation",
                 "Adventure",
@@ -922,8 +922,8 @@
         {
             "id": 63,
             "title": "Madagascar 3: Europe's Most Wanted",
-            "year": "2012",
-            "runtime": "93",
+            "year": 2012,
+            "runtime": 93,
             "genres": [
                 "Animation",
                 "Adventure",
@@ -937,8 +937,8 @@
         {
             "id": 64,
             "title": "God Bless America",
-            "year": "2011",
-            "runtime": "105",
+            "year": 2011,
+            "runtime": 105,
             "genres": [
                 "Comedy",
                 "Crime"
@@ -951,8 +951,8 @@
         {
             "id": 65,
             "title": "The Social Network",
-            "year": "2010",
-            "runtime": "120",
+            "year": 2010,
+            "runtime": 120,
             "genres": [
                 "Biography",
                 "Drama"
@@ -965,8 +965,8 @@
         {
             "id": 66,
             "title": "The Pianist",
-            "year": "2002",
-            "runtime": "150",
+            "year": 2002,
+            "runtime": 150,
             "genres": [
                 "Biography",
                 "Drama",
@@ -980,8 +980,8 @@
         {
             "id": 67,
             "title": "Alive",
-            "year": "1993",
-            "runtime": "120",
+            "year": 1993,
+            "runtime": 120,
             "genres": [
                 "Adventure",
                 "Biography",
@@ -995,8 +995,8 @@
         {
             "id": 68,
             "title": "Casablanca",
-            "year": "1942",
-            "runtime": "102",
+            "year": 1942,
+            "runtime": 102,
             "genres": [
                 "Drama",
                 "Romance",
@@ -1010,8 +1010,8 @@
         {
             "id": 69,
             "title": "American Gangster",
-            "year": "2007",
-            "runtime": "157",
+            "year": 2007,
+            "runtime": 157,
             "genres": [
                 "Biography",
                 "Crime",
@@ -1025,8 +1025,8 @@
         {
             "id": 70,
             "title": "Catch Me If You Can",
-            "year": "2002",
-            "runtime": "141",
+            "year": 2002,
+            "runtime": 141,
             "genres": [
                 "Biography",
                 "Crime",
@@ -1040,8 +1040,8 @@
         {
             "id": 71,
             "title": "American History X",
-            "year": "1998",
-            "runtime": "119",
+            "year": 1998,
+            "runtime": 119,
             "genres": [
                 "Crime",
                 "Drama"
@@ -1054,8 +1054,8 @@
         {
             "id": 72,
             "title": "Casino",
-            "year": "1995",
-            "runtime": "178",
+            "year": 1995,
+            "runtime": 178,
             "genres": [
                 "Biography",
                 "Crime",
@@ -1069,8 +1069,8 @@
         {
             "id": 73,
             "title": "Pirates of the Caribbean: At World's End",
-            "year": "2007",
-            "runtime": "169",
+            "year": 2007,
+            "runtime": 169,
             "genres": [
                 "Action",
                 "Adventure",
@@ -1084,8 +1084,8 @@
         {
             "id": 74,
             "title": "Pirates of the Caribbean: On Stranger Tides",
-            "year": "2011",
-            "runtime": "136",
+            "year": 2011,
+            "runtime": 136,
             "genres": [
                 "Action",
                 "Adventure",
@@ -1099,8 +1099,8 @@
         {
             "id": 75,
             "title": "Crash",
-            "year": "2004",
-            "runtime": "112",
+            "year": 2004,
+            "runtime": 112,
             "genres": [
                 "Crime",
                 "Drama",
@@ -1114,8 +1114,8 @@
         {
             "id": 76,
             "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
-            "year": "2003",
-            "runtime": "143",
+            "year": 2003,
+            "runtime": 143,
             "genres": [
                 "Action",
                 "Adventure",
@@ -1129,8 +1129,8 @@
         {
             "id": 77,
             "title": "The Lord of the Rings: The Return of the King",
-            "year": "2003",
-            "runtime": "201",
+            "year": 2003,
+            "runtime": 201,
             "genres": [
                 "Action",
                 "Adventure",
@@ -1144,8 +1144,8 @@
         {
             "id": 78,
             "title": "Oldboy",
-            "year": "2003",
-            "runtime": "120",
+            "year": 2003,
+            "runtime": 120,
             "genres": [
                 "Drama",
                 "Mystery",
@@ -1159,8 +1159,8 @@
         {
             "id": 79,
             "title": "Chocolat",
-            "year": "2000",
-            "runtime": "121",
+            "year": 2000,
+            "runtime": 121,
             "genres": [
                 "Drama",
                 "Romance"
@@ -1173,8 +1173,8 @@
         {
             "id": 80,
             "title": "Casino Royale",
-            "year": "2006",
-            "runtime": "144",
+            "year": 2006,
+            "runtime": 144,
             "genres": [
                 "Action",
                 "Adventure",
@@ -1188,8 +1188,8 @@
         {
             "id": 81,
             "title": "WALL·E",
-            "year": "2008",
-            "runtime": "98",
+            "year": 2008,
+            "runtime": 98,
             "genres": [
                 "Animation",
                 "Adventure",
@@ -1203,8 +1203,8 @@
         {
             "id": 82,
             "title": "The Wolf of Wall Street",
-            "year": "2013",
-            "runtime": "180",
+            "year": 2013,
+            "runtime": 180,
             "genres": [
                 "Biography",
                 "Comedy",
@@ -1218,8 +1218,8 @@
         {
             "id": 83,
             "title": "Hellboy II: The Golden Army",
-            "year": "2008",
-            "runtime": "120",
+            "year": 2008,
+            "runtime": 120,
             "genres": [
                 "Action",
                 "Adventure",
@@ -1233,8 +1233,8 @@
         {
             "id": 84,
             "title": "Sunset Boulevard",
-            "year": "1950",
-            "runtime": "110",
+            "year": 1950,
+            "runtime": 110,
             "genres": [
                 "Drama",
                 "Film-Noir",
@@ -1248,8 +1248,8 @@
         {
             "id": 85,
             "title": "I-See-You.Com",
-            "year": "2006",
-            "runtime": "92",
+            "year": 2006,
+            "runtime": 92,
             "genres": [
                 "Comedy"
             ],
@@ -1261,8 +1261,8 @@
         {
             "id": 86,
             "title": "The Grand Budapest Hotel",
-            "year": "2014",
-            "runtime": "99",
+            "year": 2014,
+            "runtime": 99,
             "genres": [
                 "Adventure",
                 "Comedy",
@@ -1276,8 +1276,8 @@
         {
             "id": 87,
             "title": "The Hitchhiker's Guide to the Galaxy",
-            "year": "2005",
-            "runtime": "109",
+            "year": 2005,
+            "runtime": 109,
             "genres": [
                 "Adventure",
                 "Comedy",
@@ -1291,8 +1291,8 @@
         {
             "id": 88,
             "title": "Once Upon a Time in America",
-            "year": "1984",
-            "runtime": "229",
+            "year": 1984,
+            "runtime": 229,
             "genres": [
                 "Crime",
                 "Drama"
@@ -1305,8 +1305,8 @@
         {
             "id": 89,
             "title": "Oblivion",
-            "year": "2013",
-            "runtime": "124",
+            "year": 2013,
+            "runtime": 124,
             "genres": [
                 "Action",
                 "Adventure",
@@ -1320,8 +1320,8 @@
         {
             "id": 90,
             "title": "V for Vendetta",
-            "year": "2005",
-            "runtime": "132",
+            "year": 2005,
+            "runtime": 132,
             "genres": [
                 "Action",
                 "Drama",
@@ -1335,8 +1335,8 @@
         {
             "id": 91,
             "title": "Gattaca",
-            "year": "1997",
-            "runtime": "106",
+            "year": 1997,
+            "runtime": 106,
             "genres": [
                 "Drama",
                 "Sci-Fi",
@@ -1350,8 +1350,8 @@
         {
             "id": 92,
             "title": "Silver Linings Playbook",
-            "year": "2012",
-            "runtime": "122",
+            "year": 2012,
+            "runtime": 122,
             "genres": [
                 "Comedy",
                 "Drama",
@@ -1365,8 +1365,8 @@
         {
             "id": 93,
             "title": "Alice in Wonderland",
-            "year": "2010",
-            "runtime": "108",
+            "year": 2010,
+            "runtime": 108,
             "genres": [
                 "Adventure",
                 "Family",
@@ -1380,8 +1380,8 @@
         {
             "id": 94,
             "title": "Gandhi",
-            "year": "1982",
-            "runtime": "191",
+            "year": 1982,
+            "runtime": 191,
             "genres": [
                 "Biography",
                 "Drama"
@@ -1394,8 +1394,8 @@
         {
             "id": 95,
             "title": "Pacific Rim",
-            "year": "2013",
-            "runtime": "131",
+            "year": 2013,
+            "runtime": 131,
             "genres": [
                 "Action",
                 "Adventure",
@@ -1409,8 +1409,8 @@
         {
             "id": 96,
             "title": "Kiss Kiss Bang Bang",
-            "year": "2005",
-            "runtime": "103",
+            "year": 2005,
+            "runtime": 103,
             "genres": [
                 "Comedy",
                 "Crime",
@@ -1424,8 +1424,8 @@
         {
             "id": 97,
             "title": "The Quiet American",
-            "year": "2002",
-            "runtime": "101",
+            "year": 2002,
+            "runtime": 101,
             "genres": [
                 "Drama",
                 "Mystery",
@@ -1439,8 +1439,8 @@
         {
             "id": 98,
             "title": "Cloud Atlas",
-            "year": "2012",
-            "runtime": "172",
+            "year": 2012,
+            "runtime": 172,
             "genres": [
                 "Drama",
                 "Sci-Fi"
@@ -1453,8 +1453,8 @@
         {
             "id": 99,
             "title": "The Impossible",
-            "year": "2012",
-            "runtime": "114",
+            "year": 2012,
+            "runtime": 114,
             "genres": [
                 "Drama",
                 "Thriller"
@@ -1467,8 +1467,8 @@
         {
             "id": 100,
             "title": "All Quiet on the Western Front",
-            "year": "1930",
-            "runtime": "136",
+            "year": 1930,
+            "runtime": 136,
             "genres": [
                 "Drama",
                 "War"
@@ -1481,8 +1481,8 @@
         {
             "id": 101,
             "title": "The English Patient",
-            "year": "1996",
-            "runtime": "162",
+            "year": 1996,
+            "runtime": 162,
             "genres": [
                 "Drama",
                 "Romance",
@@ -1496,8 +1496,8 @@
         {
             "id": 102,
             "title": "Dallas Buyers Club",
-            "year": "2013",
-            "runtime": "117",
+            "year": 2013,
+            "runtime": 117,
             "genres": [
                 "Biography",
                 "Drama"
@@ -1510,8 +1510,8 @@
         {
             "id": 103,
             "title": "Frida",
-            "year": "2002",
-            "runtime": "123",
+            "year": 2002,
+            "runtime": 123,
             "genres": [
                 "Biography",
                 "Drama",
@@ -1525,8 +1525,8 @@
         {
             "id": 104,
             "title": "Before Sunrise",
-            "year": "1995",
-            "runtime": "105",
+            "year": 1995,
+            "runtime": 105,
             "genres": [
                 "Drama",
                 "Romance"
@@ -1539,8 +1539,8 @@
         {
             "id": 105,
             "title": "The Rum Diary",
-            "year": "2011",
-            "runtime": "120",
+            "year": 2011,
+            "runtime": 120,
             "genres": [
                 "Comedy",
                 "Drama"
@@ -1553,8 +1553,8 @@
         {
             "id": 106,
             "title": "The Last Samurai",
-            "year": "2003",
-            "runtime": "154",
+            "year": 2003,
+            "runtime": 154,
             "genres": [
                 "Action",
                 "Drama",
@@ -1568,8 +1568,8 @@
         {
             "id": 107,
             "title": "Chinatown",
-            "year": "1974",
-            "runtime": "130",
+            "year": 1974,
+            "runtime": 130,
             "genres": [
                 "Drama",
                 "Mystery",
@@ -1583,8 +1583,8 @@
         {
             "id": 108,
             "title": "Calvary",
-            "year": "2014",
-            "runtime": "102",
+            "year": 2014,
+            "runtime": 102,
             "genres": [
                 "Comedy",
                 "Drama"
@@ -1597,8 +1597,8 @@
         {
             "id": 109,
             "title": "Before Sunset",
-            "year": "2004",
-            "runtime": "80",
+            "year": 2004,
+            "runtime": 80,
             "genres": [
                 "Drama",
                 "Romance"
@@ -1611,8 +1611,8 @@
         {
             "id": 110,
             "title": "Spirited Away",
-            "year": "2001",
-            "runtime": "125",
+            "year": 2001,
+            "runtime": 125,
             "genres": [
                 "Animation",
                 "Adventure",
@@ -1626,8 +1626,8 @@
         {
             "id": 111,
             "title": "Indochine",
-            "year": "1992",
-            "runtime": "159",
+            "year": 1992,
+            "runtime": 159,
             "genres": [
                 "Drama",
                 "Romance"
@@ -1640,8 +1640,8 @@
         {
             "id": 112,
             "title": "Birdman or (The Unexpected Virtue of Ignorance)",
-            "year": "2014",
-            "runtime": "119",
+            "year": 2014,
+            "runtime": 119,
             "genres": [
                 "Comedy",
                 "Drama",
@@ -1655,8 +1655,8 @@
         {
             "id": 113,
             "title": "Boyhood",
-            "year": "2014",
-            "runtime": "165",
+            "year": 2014,
+            "runtime": 165,
             "genres": [
                 "Drama"
             ],
@@ -1668,8 +1668,8 @@
         {
             "id": 114,
             "title": "12 Angry Men",
-            "year": "1957",
-            "runtime": "96",
+            "year": 1957,
+            "runtime": 96,
             "genres": [
                 "Crime",
                 "Drama"
@@ -1682,8 +1682,8 @@
         {
             "id": 115,
             "title": "The Imitation Game",
-            "year": "2014",
-            "runtime": "114",
+            "year": 2014,
+            "runtime": 114,
             "genres": [
                 "Biography",
                 "Drama",
@@ -1697,8 +1697,8 @@
         {
             "id": 116,
             "title": "Interstellar",
-            "year": "2014",
-            "runtime": "169",
+            "year": 2014,
+            "runtime": 169,
             "genres": [
                 "Adventure",
                 "Drama",
@@ -1712,8 +1712,8 @@
         {
             "id": 117,
             "title": "Big Nothing",
-            "year": "2006",
-            "runtime": "86",
+            "year": 2006,
+            "runtime": 86,
             "genres": [
                 "Comedy",
                 "Crime",
@@ -1727,8 +1727,8 @@
         {
             "id": 118,
             "title": "Das Boot",
-            "year": "1981",
-            "runtime": "149",
+            "year": 1981,
+            "runtime": 149,
             "genres": [
                 "Adventure",
                 "Drama",
@@ -1742,8 +1742,8 @@
         {
             "id": 119,
             "title": "Shrek 2",
-            "year": "2004",
-            "runtime": "93",
+            "year": 2004,
+            "runtime": 93,
             "genres": [
                 "Animation",
                 "Adventure",
@@ -1757,8 +1757,8 @@
         {
             "id": 120,
             "title": "Sin City",
-            "year": "2005",
-            "runtime": "124",
+            "year": 2005,
+            "runtime": 124,
             "genres": [
                 "Crime",
                 "Thriller"
@@ -1771,8 +1771,8 @@
         {
             "id": 121,
             "title": "Nebraska",
-            "year": "2013",
-            "runtime": "115",
+            "year": 2013,
+            "runtime": 115,
             "genres": [
                 "Adventure",
                 "Comedy",
@@ -1786,8 +1786,8 @@
         {
             "id": 122,
             "title": "Shrek",
-            "year": "2001",
-            "runtime": "90",
+            "year": 2001,
+            "runtime": 90,
             "genres": [
                 "Animation",
                 "Adventure",
@@ -1801,8 +1801,8 @@
         {
             "id": 123,
             "title": "Mr. & Mrs. Smith",
-            "year": "2005",
-            "runtime": "120",
+            "year": 2005,
+            "runtime": 120,
             "genres": [
                 "Action",
                 "Comedy",
@@ -1816,8 +1816,8 @@
         {
             "id": 124,
             "title": "Original Sin",
-            "year": "2001",
-            "runtime": "116",
+            "year": 2001,
+            "runtime": 116,
             "genres": [
                 "Drama",
                 "Mystery",
@@ -1831,8 +1831,8 @@
         {
             "id": 125,
             "title": "Shrek Forever After",
-            "year": "2010",
-            "runtime": "93",
+            "year": 2010,
+            "runtime": 93,
             "genres": [
                 "Animation",
                 "Adventure",
@@ -1846,8 +1846,8 @@
         {
             "id": 126,
             "title": "Before Midnight",
-            "year": "2013",
-            "runtime": "109",
+            "year": 2013,
+            "runtime": 109,
             "genres": [
                 "Drama",
                 "Romance"
@@ -1860,8 +1860,8 @@
         {
             "id": 127,
             "title": "Despicable Me",
-            "year": "2010",
-            "runtime": "95",
+            "year": 2010,
+            "runtime": 95,
             "genres": [
                 "Animation",
                 "Adventure",
@@ -1875,8 +1875,8 @@
         {
             "id": 128,
             "title": "Troy",
-            "year": "2004",
-            "runtime": "163",
+            "year": 2004,
+            "runtime": 163,
             "genres": [
                 "Adventure"
             ],
@@ -1888,8 +1888,8 @@
         {
             "id": 129,
             "title": "The Hobbit: An Unexpected Journey",
-            "year": "2012",
-            "runtime": "169",
+            "year": 2012,
+            "runtime": 169,
             "genres": [
                 "Adventure",
                 "Fantasy"
@@ -1902,8 +1902,8 @@
         {
             "id": 130,
             "title": "The Great Gatsby",
-            "year": "2013",
-            "runtime": "143",
+            "year": 2013,
+            "runtime": 143,
             "genres": [
                 "Drama",
                 "Romance"
@@ -1916,8 +1916,8 @@
         {
             "id": 131,
             "title": "Ice Age",
-            "year": "2002",
-            "runtime": "81",
+            "year": 2002,
+            "runtime": 81,
             "genres": [
                 "Animation",
                 "Adventure",
@@ -1931,8 +1931,8 @@
         {
             "id": 132,
             "title": "The Lord of the Rings: The Fellowship of the Ring",
-            "year": "2001",
-            "runtime": "178",
+            "year": 2001,
+            "runtime": 178,
             "genres": [
                 "Action",
                 "Adventure",
@@ -1946,8 +1946,8 @@
         {
             "id": 133,
             "title": "The Lord of the Rings: The Two Towers",
-            "year": "2002",
-            "runtime": "179",
+            "year": 2002,
+            "runtime": 179,
             "genres": [
                 "Action",
                 "Adventure",
@@ -1961,8 +1961,8 @@
         {
             "id": 134,
             "title": "Ex Machina",
-            "year": "2015",
-            "runtime": "108",
+            "year": 2015,
+            "runtime": 108,
             "genres": [
                 "Drama",
                 "Mystery",
@@ -1976,8 +1976,8 @@
         {
             "id": 135,
             "title": "The Theory of Everything",
-            "year": "2014",
-            "runtime": "123",
+            "year": 2014,
+            "runtime": 123,
             "genres": [
                 "Biography",
                 "Drama",
@@ -1991,8 +1991,8 @@
         {
             "id": 136,
             "title": "Shogun",
-            "year": "1980",
-            "runtime": "60",
+            "year": 1980,
+            "runtime": 60,
             "genres": [
                 "Adventure",
                 "Drama",
@@ -2006,8 +2006,8 @@
         {
             "id": 137,
             "title": "Spotlight",
-            "year": "2015",
-            "runtime": "128",
+            "year": 2015,
+            "runtime": 128,
             "genres": [
                 "Biography",
                 "Crime",
@@ -2021,8 +2021,8 @@
         {
             "id": 138,
             "title": "Vertigo",
-            "year": "1958",
-            "runtime": "128",
+            "year": 1958,
+            "runtime": 128,
             "genres": [
                 "Mystery",
                 "Romance",
@@ -2036,8 +2036,8 @@
         {
             "id": 139,
             "title": "Whiplash",
-            "year": "2014",
-            "runtime": "107",
+            "year": 2014,
+            "runtime": 107,
             "genres": [
                 "Drama",
                 "Music"
@@ -2050,8 +2050,8 @@
         {
             "id": 140,
             "title": "The Lives of Others",
-            "year": "2006",
-            "runtime": "137",
+            "year": 2006,
+            "runtime": 137,
             "genres": [
                 "Drama",
                 "Thriller"
@@ -2064,8 +2064,8 @@
         {
             "id": 141,
             "title": "Hotel Rwanda",
-            "year": "2004",
-            "runtime": "121",
+            "year": 2004,
+            "runtime": 121,
             "genres": [
                 "Drama",
                 "History",
@@ -2079,8 +2079,8 @@
         {
             "id": 142,
             "title": "The Martian",
-            "year": "2015",
-            "runtime": "144",
+            "year": 2015,
+            "runtime": 144,
             "genres": [
                 "Adventure",
                 "Drama",

@@ -8,6 +8,13 @@
         <title>Basic Web Page</title>
     </head>
     <body>
+        <div id="film-list-error">
+            {{ define "film-not-found" }}
+            <div class="alert alert-danger">
+                This film could not be found in our database.
+            </div>
+            {{ end }}
+        </div>
         <div class="row mt-4 g-4">
             <div class="col-8">
                 <h1 class="mb-4">Film List</h1>
@@ -15,7 +22,7 @@
                 <ul class="list-group fs-5 me-5" id="film-list">
                     {{ range .Films }}
                         {{ block "film-list-element" .}}
-                            <li class="list-group-item bg-primary text-white">{{ .Title }} - {{ .Director }}</li>
+                            <li class="list-group-item bg-primary text-white">{{ .Title }} - {{ .Year }} - {{ .Director }}</li>
                         {{ end }}
                     {{ end }}
                 </ul>
@@ -30,8 +37,8 @@
                         <input type="text" name="title" id="film-title" class="form-control" />
                     </div>
                     <div class="mb-3">
-                        <label for="film-director">Director</label>
-                        <input type="text" name="director" id="film-director" class="form-control" />
+                        <label for="film-year">Year</label>
+                        <input type="text" name="year" id="film-year" class="form-control" />
                     </div>
 
                     <button type="submit" class="btn btn-primary">
