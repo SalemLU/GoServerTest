@@ -9,5 +9,5 @@
 
 # How to run the apps
 
-Run the server app first with ```go run main.go struts.go```<br />
+Run the server app first with ```go run main.go structs.go```<br />
 Then run the web app with ```go run main.go```. The site is accessible via http://localhost:8000. Look into the "db.json" file for valid films to try request for the director's name.
